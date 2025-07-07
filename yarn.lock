@@ -406,9 +406,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:8.1.2":
-  version: 8.1.2
-  resolution: "@mantine/core@npm:8.1.2"
+"@mantine/core@npm:8.1.3":
+  version: 8.1.3
+  resolution: "@mantine/core@npm:8.1.3"
   dependencies:
     "@floating-ui/react": "npm:^0.26.28"
     clsx: "npm:^2.1.1"
@@ -417,19 +417,19 @@ __metadata:
     react-textarea-autosize: "npm:8.5.9"
     type-fest: "npm:^4.27.0"
   peerDependencies:
-    "@mantine/hooks": 8.1.2
+    "@mantine/hooks": 8.1.3
     react: ^18.x || ^19.x
     react-dom: ^18.x || ^19.x
-  checksum: 10c0/c6498676dc5a50a036778588002301717cd9e290f6e9c460702592a2d5f0da0dc19be56f781f890656ca04ea353328c9c605fdc105924544978aa39b995433d5
+  checksum: 10c0/7b6da408d05c6d29c073fb9a2d0ad9035d1e640c05c11ff6633b3c0626738ba61b5a4b539a3e014882a8499b064e302f2668c0aabc2713856a3ac4a405bf365a
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:8.1.2":
-  version: 8.1.2
-  resolution: "@mantine/hooks@npm:8.1.2"
+"@mantine/hooks@npm:8.1.3":
+  version: 8.1.3
+  resolution: "@mantine/hooks@npm:8.1.3"
   peerDependencies:
     react: ^18.x || ^19.x
-  checksum: 10c0/64bbc2b4cf39b315958939ce0c1febf2e35c79618f99cc2a262788e7d180922f7d551445606a2b4d66fcbf5371d1d40f9c50e5ff8e87b16ac1c28e5a4f2f4373
+  checksum: 10c0/afbecf6fd1f838062846032485a45acdb6992863a733254792db0dd3c19161131087dd2067b118c7ae8265036d7fc1c5970bd7490ef4a15276c9ed9f50fe4bf3
   languageName: node
   linkType: hard
 
@@ -3134,8 +3134,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "mantine-next-flickering-bug@workspace:."
   dependencies:
-    "@mantine/core": "npm:8.1.2"
-    "@mantine/hooks": "npm:8.1.2"
+    "@mantine/core": "npm:8.1.3"
+    "@mantine/hooks": "npm:8.1.3"
     "@types/node": "npm:22.13.11"
     "@types/react": "npm:19.0.12"
     "@types/react-dom": "npm:19.0.4"
